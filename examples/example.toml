@@ -1,0 +1,12 @@
+title="example"
+author="zhengxin"
+file="examples/example.txt"
+cover="examples/cover_example.jpg"
+chapter="^第.*卷$"
+subchapter="^第\\d+章 .*$"
+compress=false
+encoding="GB18030"
+lang="zh-CN"
+//default cover size
+//cover_width=860
+//cover_hight=1200
